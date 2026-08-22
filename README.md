@@ -30,4 +30,5 @@ Build a strong Python foundation and gradually move towards:
 * 📓 Jupyter Notebook
 
 > 🚀 **Learning Python. Building with AI.**
+> 
 Feel free to explore the code and follow the journey!
